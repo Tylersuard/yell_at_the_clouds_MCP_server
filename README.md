@@ -9,15 +9,13 @@
                                                                     |_|                  
 -->
 <h1 align="center">🌩️ Yell At The Clouds As A Service</h1>
-<p align="center"><em>YATCaaS — Because sometimes the heavens just need a talking-to.</em></p>
+<p align="center"><em>YATCaaS — Because sometimes you just can't bottle up the rage anymore.</em></p>
 
 <div align="center">
   <img alt="LOUDNESS" src="https://img.shields.io/badge/loudness-11/10-ff69b4?style=for-the-badge">
   <img alt="Latency"  src="https://img.shields.io/badge/dramatic%20pause-up%20to%2030s-blue?style=for-the-badge">
   <img alt="Cloud Mood" src="https://img.shields.io/badge/cloud%20mood-🙄%20unimpressed-lightgrey?style=for-the-badge">
 </div>
-
-### *Because shouting into the void is so 2023*  
 
 ---
 
