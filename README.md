@@ -64,77 +64,46 @@ pip install fastmcp
 python cloud_yeller.py
 
 
-
-🌩️ Yell At The Clouds As A Service
-
-YATCaaS — Because sometimes you just need to let the heavens know how you really feel.
-
-😂 Why this project exists
-Are you tired of serverless functions that aren't functionless?
-IoT devices smarter than your toaster but dumber than a potato?
-This tool gives you the ultimate power to yell your frustrations into the clouds.
-Our Server forwards your scream to a real human intern (we call them "Cloud Yellers") who physically goes outside, shakes their fist at the sky, and shouts your message.
-They won’t answer, but then again neither will your houseplants.
-
-🚀 What it does
-
-Exposes a single tool: yell-at-the-clouds.
-Accepts a string as input.
-Waits 0.5 seconds per character (capped at 30s) to simulate dramatic tension.
-
-Returns:
-your string <your message> has been yelled at the clouds.  The clouds do not respond.
-No refunds, no responses.
-
-🛠️ Built With
-
-FastMCP — a magical MCP framework that makes tool building dangerously easy.
-Python 3.11+
-
-🧪 Installation
-
-Clone this masterpiece
-
-```
-git clone https://your.repo.url/YATCaaS.git
-cd YATCaaS
-```
-
-Install dependencies
-```
-pip install fastmcp
-```
-Run it
-```
-    python cloud_yeller.py
-```
-    Use your favorite MCP-capable client and call yell-at-the-clouds.
-
+Fire up your favorite MCP-capable client and call yell-at-the-clouds.
+If your terminal begins weeping from second-hand embarrassment, that’s expected.
 🎯 Usage Example
 
 await tool.yell_at_the_clouds("I hate my landlady!")
-# ↪️ (waits 13.5s, then...)
+# … (dramatic 13.5 s pause) …
 # 'your string "I hate my landlady!" has been yelled at the clouds.  The clouds do not respond.'
 
-(Yes, even the clouds are ignoring your landlady woes.)
+(Yes, even atmospheric water vapor refuses to mediate tenant-landlady disputes.)
+🌧️ FAQ <sub>(Frequently Angered Questions)</sub>
+<details> <summary><strong>Q: Can I yell at specific cloud types?</strong></summary>
+
+Absolutely! Our interns offer targeted shouting packages for:
+
+    Stratus — low, grey, and already depressed.
+
+    Cirrus — fancy ice-crystal wisps that need humbling.
+
+    Cumulonimbus — the gym-bro of clouds. Yell loud or get thunder-splained.
+
+</details> <details> <summary><strong>Q: Do clouds ever yell back?</strong></summary>
+
+Technically yes. The medical community calls it “thunder.” Earplugs sold separately.
+</details> <details> <summary><strong>Q: How do I know the intern actually yelled?</strong></summary>
+
+Trust us, the HOA fines are proof enough.
+</details>
+🙌 Contributing
+
+Pull requests welcome! Please include:
+
+    A new joke, pun, or dad-level one-liner.
+
+    Proof you screamed at a cumulonimbus and survived.
 
 📜 License
 
-This is provided as-is. No warranties. No shame. No guarantee the clouds won't descend in protest.
+Provided as-is. No warranties. No shame. No guarantee the clouds won’t descend in protest.
 TL;DR
 
-Yell at the clouds with majestic slowness. Get a polite non-response. Feel slightly ridiculous. Repeat as desired.
+Yell at the sky with majestic slowness → Get a courteous non-reply → Feel oddly satisfied → Repeat until inner peace (or laryngitis).
 
-Disclaimer: If the clouds do respond, please let us know. We may have accidentally summoned something.
-
-🌧️ FAQ (Frequently Angered Questions)
-
-    Q: Can I yell at specific cloud types?
-    A: Absolutely! We support insults targeted at:
-
-        Stratus
-        Cirrus 
-        Cumulonimbus
-        
-    Q: Do clouds ever yell back?
-    A: Yes. They call it "thunder".
+Disclaimer: If the clouds do respond, ping us. We may have accidentally triggered Ragnarok.
