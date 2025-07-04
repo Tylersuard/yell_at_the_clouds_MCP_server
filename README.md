@@ -81,7 +81,7 @@ await tool.yell_at_the_clouds("I HATE MY LANDLADY!")
 git clone https://github.com/yell-at-the-clouds-MCP-server
 
 # Run the disappointment engine:
-python -m cloud_yeller
+python server.py
 ```
 
 ---
