@@ -5,13 +5,13 @@
 
 ---
 
-### 🤬 Why This Exists (Besides Our Crippling Existential Dread)  
+### 🤬 Why This Exists 
 - Your therapist charges $200/hour. **Clouds work for free.**  
 - Alexa ignores you. **Siri judges you.** **Clouds... well, they just float there judging silently.**  
 - We outsourced catharsis to minimum-wage interns with megaphones. *You're welcome.*  
 
 > "I've yelled at 37 clouds this week and still got rained on. 10/10 would recommend."  
-> *— Satisfied Customer (probably lying)*  
+> *— Satisfied Customer* 
 
 ---
 
