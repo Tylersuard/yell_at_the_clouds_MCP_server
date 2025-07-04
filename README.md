@@ -9,30 +9,24 @@ This tool gives you the ultimate power to yell your frustrations into the clouds
 Our Server forwards your scream to a real human intern (we call them "Cloud Yellers") who physically goes outside, shakes their fist at the sky, and shouts your message.
 They won’t answer, but then again neither will your houseplants.
 
-💡 Why Adopt YATCAAS
-Traditional Yelling	YATCAAS Solution
-❌ Unmetered effort	✅ Usage-based billing (per decibel-hour)
-❌ No SLA guarantees	✅ 99.99% yell uptime (excludes fog)
-❌ Single-region shouting	✅ Geo-redundant scream zones
-❌ Manual fist-shaking	✅ Automated wrist-oscillation firmware
 🚀 What it does
 
-    Exposes a single tool: yell-at-the-clouds.
-    Accepts a string as input.
-    Waits 0.5 seconds per character (capped at 30s) to simulate dramatic tension.
+Exposes a single tool: yell-at-the-clouds.
+Accepts a string as input.
+Waits 0.5 seconds per character (capped at 30s) to simulate dramatic tension.
 
-    Returns:
-    your string <your message> has been yelled at the clouds.  The clouds do not respond.
-    No refunds, no responses.
+Returns:
+your string <your message> has been yelled at the clouds.  The clouds do not respond.
+No refunds, no responses.
 
 🛠️ Built With
 
-    FastMCP — a magical MCP framework that makes tool building dangerously easy.
-    Python 3.11+
+FastMCP — a magical MCP framework that makes tool building dangerously easy.
+Python 3.11+
 
 🧪 Installation
 
-    Clone this masterpiece
+Clone this masterpiece
 
 ```
 git clone https://your.repo.url/YATCaaS.git
