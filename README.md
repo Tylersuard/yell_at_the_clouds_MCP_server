@@ -21,10 +21,7 @@
 
 ## 😂 Why This Project Exists
 
-* Sick of “serverless” functions that still cost you a kidney?  
-* IoT gadgets smarter than your toaster yet somehow dumber than a potato?  
-* Need a safe outlet for the primal scream you’ve been bottling up since high school chemistry?  
-
+Need a safe outlet for the primal scream you’ve been bottling up since high school chemistry?  
 **YATCaaS** forwards your anguish to a real, live human intern (codename: **Cloud Yeller**).  
 Said intern sprints outside, shakes a fist at the sky, and bellows your message until the neighborhood dogs file noise complaints.  
 Will the clouds respond? Absolutely not. Then again, neither will your houseplants.
