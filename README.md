@@ -1,5 +1,36 @@
-## 🌩️ Yell At The Clouds As A Service (YATCaaS)  
+<!--
+ _____         _ _          _    _           _     _                       _             
+|_   _|       | | |        | |  | |         | |   | |                     | |            
+  | | ___  ___| | | ___    | |  | |_ __   __| |___| |__   ___   ___  _ __ | |_ ___  _ __ 
+  | |/ _ \/ __| | |/ _ \   | |  | | '_ \ / _` / __| '_ \ / _ \ / _ \| '_ \| __/ _ \| '__|
+  | |  __/ (__| | | (_) |  | |__| | | | | (_| \__ \ | | | (_) | (_) | |_) | || (_) | |   
+  \_/\___|\___|_|_|\___/    \____/|_| |_|\__,_|___/_| |_|\___/ \___/| .__/ \__\___/|_|   
+                                                                    | |                  
+                                                                    |_|                  
+-->
+<h1 align="center">🌩️ Yell At The Clouds As A Service</h1>
+<p align="center"><em>YATCaaS — Because sometimes the heavens just need a talking-to.</em></p>
+
+<div align="center">
+  <img alt="LOUDNESS" src="https://img.shields.io/badge/loudness-11/10-ff69b4?style=for-the-badge">
+  <img alt="Latency"  src="https://img.shields.io/badge/dramatic%20pause-up%20to%2030s-blue?style=for-the-badge">
+  <img alt="Cloud Mood" src="https://img.shields.io/badge/cloud%20mood-🙄%20unimpressed-lightgrey?style=for-the-badge">
+</div>
+
 ### *Because shouting into the void is so 2023*  
+
+---
+
+## 😂 Why This Project Exists
+
+* Sick of “serverless” functions that still cost you a kidney?  
+* IoT gadgets smarter than your toaster yet somehow dumber than a potato?  
+* Need a safe outlet for the primal scream you’ve been bottling up since high school chemistry?  
+
+**YATCaaS** forwards your anguish to a real, live human intern (codename: **Cloud Yeller**).  
+Said intern sprints outside, shakes a fist at the sky, and bellows your message until the neighborhood dogs file noise complaints.  
+Will the clouds respond? Absolutely not. Then again, neither will your houseplants.
+
 
 **Finally!** A service that solves humanity's *real* problems: Unheard grievances with floating water vapor.  
 
