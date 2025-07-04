@@ -23,7 +23,7 @@
 
 Need a safe outlet for the primal scream you’ve been bottling up since high school chemistry?  
 **YATCaaS** forwards your anguish to a real, live human intern (codename: **Cloud Yeller**).  
-Said intern sprints outside, shakes a fist at the sky, and bellows your message until the neighborhood dogs file noise complaints.  
+Said intern sprints outside, shakes a fist at the sky, and bellows your message to the skies.  
 Will the clouds respond? Absolutely not. Then again, neither will your houseplants.
 
 
@@ -49,18 +49,18 @@ Will the clouds respond? Absolutely not. Then again, neither will your houseplan
 
 ```python
 # Your input (angrily typed)
-await tool.yell_at_the_clouds("WHY MUST YOU RAIN ON MY PARADE LITERALLY?!")
+await tool.yell_at_the_clouds("I HATE MY LANDLADY!")
 
 # What happens next:
 # 1. We calculate dramatic pause (0.5s per character)
-#    → "WHY MUST YOU..." = 37 chars → 18.5 seconds of ✨suspense✨
+#    → "I HATE MY..." = 37 chars → 18.5 seconds of ✨suspense✨
 # 2. Intern sprints outside (trips on stairs)
 # 3. Megaphone feedback screeches
 # 4. Pigeons scatter
 # 5. Clouds: ¯\_(ツ)_/¯
 
 # Output: 
-# 'your string "WHY MUST YOU..." has been yelled at the clouds. They remain unbothered.'
+# 'your string "I HATE MY LANDLADY" has been yelled at the clouds. They remain unbothered.'
 ```
 
 ---
@@ -69,24 +69,19 @@ await tool.yell_at_the_clouds("WHY MUST YOU RAIN ON MY PARADE LITERALLY?!")
 | **Feature**          | **Free Tier**         | **Platinum Rage™** ($99/month) |  
 |----------------------|-----------------------|-------------------------------|  
 | Yelling              | ✅                    | ✅ (with *extra spit*)        |  
-| Cloud Response       | ❌ Always             | ❌ But we *pretend* to listen |  
-| Intern Eye Contact   | ❌                    | ✅ (They'll *glare* upwards)  |  
-| Refunds              | LOL                  | Double LOL                   |  
+| Cloud Response       | ❌ Never              | ❌ Still no                   |  
+| Refunds              | LOL                   | Double LOL                     |  
 
 ---
 
 ### 🧪 Installation (Why Bother?)  
 
 ```bash
-# Clone our monument to human futility:
-git clone https://github.com/yell-at-clouds/pointless.git
-cd pointless
-
-# Install dependencies (a.k.a. digital despair):
-pip install fastmcp shattered-dreams existential-dread
+# Clone this masterpiece:
+git clone https://github.com/yell-at-the-clouds-MCP-server
 
 # Run the disappointment engine:
-python -m cloud_yeller --drama-level=MAX
+python -m cloud_yeller
 ```
 
 ---
@@ -94,30 +89,21 @@ python -m cloud_yeller --drama-level=MAX
 ### 🌧️ FAQ (Frequently Avoided Questions)  
 
 > **Q: Can I target specific clouds?**  
-> **A:** Absolutely! Our premium "Cloud Profiling Suite" supports:  
-> - **Stratus**: *"Stop looming like my student loans!"*  
-> - **Cumulus**: *"Your fluffiness mocks my receding hairline!"*  
-> - **Nimbus**: *"Oh look, another useless overachiever!"*  
+> **A:** Absolutely! We support abusing:  
+> - **Stratus**  
+> - **Cumulus**  
+> - **Nimbus**
+> - **The ones that kinda look like sheep but also alligators**  
 
 > **Q: What if clouds retaliate?**  
 > **A:** They already did. It's called *"hail damage."* Your insurance won't cover it.  
-
-> **Q: Is there an SLA?**  
-> **A:** Our Service Level Agreement guarantees:  
-> - 0% response rate from clouds  
-> - 100% awkward stares from neighbors  
-> - 200% regret within 5 minutes of use  
-
-> **Q: Can I yell at UFOs disguised as clouds?**  
-> **A:** Finally, someone asking the *real* questions! Please subscribe to our **$499/month "Tinfoil Tier"** for alien-specific insults.  
 
 ---
 
 ### 🚨 Legal Disclaimers (We Have Lawyers Watching Clouds Too)  
 - **Results not guaranteed** because *nothing in life is*  
-- **Not responsible** for sudden downpours, lightning strikes, or existential crises  
 - **Clouds are silent jerks** and we refuse to mediate your toxic relationship  
-- **By using YATCaaS** you agree to mutter *"what am I doing with my life?"* at least once per session  
+- **By using YATCaaS** you agree not to mutter *"what am I doing with my life?"* during the session  
 
 ---
 
@@ -126,8 +112,3 @@ This abomination is licensed under the **"Meh" Public License**:
 > Do what you want.  
 > Clouds don’t care.  
 > We don’t either.  
-
----
-
-**Yell responsibly™**  
-*Clouds: Nature's original ghosters since 4.6 billion BC.*
